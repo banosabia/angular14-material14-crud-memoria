@@ -12,7 +12,7 @@ export class UsuarioService {
     {usuario: 'marmol', nombre: 'Pablo', apellido: 'Mármol', sexo: 'H'},
     {usuario: 'acamiones', nombre: 'Armando', apellido: 'Camiones', sexo: 'H'},
     {usuario: 'fdomador', nombre: 'Fernando', apellido: 'Mador', sexo: 'H'},
-    {usuario: 'otromas', nombre: 'Otro', apellido: 'Más', sexo: 'H'},
+    {usuario: 'otromas', nombre: 'Otro', apellido: ' Más Más', sexo: 'H'},
   ];
 
   constructor() { }
